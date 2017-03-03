@@ -32,6 +32,7 @@
     "serve-favicon": "~2.3.2",
     "url-loader": "^0.5.7",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^2.3.0",
+    "yahoo-weather": "^2.2.2"
   }
 }
